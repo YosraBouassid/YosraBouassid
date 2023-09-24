@@ -6,13 +6,13 @@
 
 - 🌱 I am presently deepening my knowledge by delving into additional **JavaScript frameworks**, and I'm also expanding my understanding of **big data technologies.**
 
-- 👨‍💻 You can access all of my projects by visiting: [https://github.com/YosraBouassid/yosraBouassida](https://github.com/YosraBouassid/yosraBouassida)
+- 👨‍💻 You can access all of my projects by visiting: [https://github.com/YosraBouassid](https://github.com/YosraBouassid)
 
 - 📫You can get in touch with me via  **yosra.bouassida@gmail.com**
 
 <h3 align="left">Feel free to reach out to me through:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yosra-bouassida-b76b19157/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosra-bouassida-b76b19157/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yosra-bouassida-b76b19157/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosra-bouassida-b76b19157/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages and Software Tools I Utilize:</h3>
