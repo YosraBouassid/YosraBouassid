@@ -8,7 +8,7 @@
 
 - 👨‍💻 You can access all of my projects by visiting: [https://github.com/YosraBouassid](https://github.com/YosraBouassid)
 
-- 📫You can get in touch with me via  **yosra.bouassida@gmail.com**
+- 📫You can get in touch with me via  **yosra.bouassida96@gmail.com**
 
 <h3 align="left">Feel free to reach out to me through:</h3>
 <p align="left">
