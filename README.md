@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosra </h1>
-<h3 align="center">Full Stack Engineer | Developer | seeking opportunities to further enhance my expertise and broaden my horizons.</h3>
+<h3 align="center">Full Stack Developer | Software Engineer | seeking opportunities to further enhance my expertise and broaden my horizons.</h3>
 
 
 <p align="left">Passionate Full Stack Developer with a robust foundation in development, bolstered by the successful completion of an intensive Traineeship program offered by IT Career Switch Ltd. Throughout this immersive experience, I acquired practical insights into live projects, harnessing the power of JavaScript, React, and various state-of-the-art technologies. My professional journey is marked by an insatiable hunger for knowledge, and I am especially eager to expand my proficiency in React while delving into other innovative JavaScript frameworks. At present, I am actively exploring opportunities that enable me to apply my expertise, collaborate with dynamic and talented teams, and gain valuable exposure to the realm of big data technologies.</p>
