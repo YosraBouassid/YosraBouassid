@@ -7,8 +7,8 @@
 - 🌱 I am presently deepening my knowledge by delving into additional **JavaScript frameworks**, and I'm also expanding my understanding of **big data technologies.**
 
 - 👨‍💻 You can access all of my projects by visiting: [
-https://yosrabouassida.infinityfreeapp.com/biography/](
-https://yosrabouassida.infinityfreeapp.com/biography/)
+https://yosrabouassida.infinityfreeapp.com/](
+https://yosrabouassida.infinityfreeapp.com/)
 
 - 📫You can get in touch with me via  **yosra.bouassida96@gmail.com**
 
