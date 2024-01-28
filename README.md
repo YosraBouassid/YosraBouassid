@@ -17,7 +17,7 @@ https://yosrabouassida.infinityfreeapp.com/YosraBouassida/)
 <a href="https://www.linkedin.com/in/yosra-bouassida-b76b19157/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosra-bouassida-b76b19157/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left"> Skills:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" />
   <span>&nbsp;&nbsp;</span>
@@ -35,6 +35,7 @@ https://yosrabouassida.infinityfreeapp.com/YosraBouassida/)
   <span>&nbsp;&nbsp;</span>
   <img src="https://placeholder-url-for-eda-icon.com/eda-icon.svg" alt="Exploratory Data Analysis" width="40" height="40" />
 </p>
+
 
 
 
