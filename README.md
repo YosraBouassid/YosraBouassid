@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yosra </h1>
-<h3 align="center">Full Stack Developer | Software Engineer | seeking opportunities to further enhance my expertise and broaden my horizons.</h3>
+<h3 align="center">Passionate Data Analyst | Transforming Complex Data into Actionable Insights | Expert in SQL, Excel and Data Visualization Tools | Driving Informed Decision-Making and Business Impact.</h3>
 
 
-<p align="left">Passionate Full Stack Developer with a robust foundation in development, bolstered by the successful completion of an intensive Traineeship program offered by IT Career Switch Ltd. Throughout this immersive experience, I acquired practical insights into live projects, harnessing the power of JavaScript, React, and various state-of-the-art technologies. My professional journey is marked by an insatiable hunger for knowledge, and I am especially eager to expand my proficiency in React while delving into other innovative JavaScript frameworks. At present, I am actively exploring opportunities that enable me to apply my expertise, collaborate with dynamic and talented teams, and gain valuable exposure to the realm of big data technologies.</p>
+<p align="left">I'm currently studying data analytics at Glasgow Caledonian University in London, and I love diving into the world of data. My coursework helps me improve my analytical skills, and I'm dedicated to becoming proficient in tools like SQL while exploring different ways to visualize data. The university provides not just theoretical knowledge but also practical insights, letting me apply data analysis to real-world situations.I'm passionate about keeping up with the latest trends in data science and enjoy continuous learning. Being part of the lively academic community at Glasgow Caledonian University allows me to collaborate and understand the ever-changing field of data analytics better.Equipped with a strong foundation in data analysis, I look forward to contributing to data-driven decision-making in my professional journey. The idea of using my education and skills for a successful career as a data analyst is something I'm really excited about.</p>
 
-- 🌱 I am presently deepening my knowledge by delving into additional **JavaScript frameworks**, and I'm also expanding my understanding of **big data technologies.**
+- 🌱 I am presently deepening my knowledge by delving into additional **Cloud Computing**, and I'm also expanding my understanding of **big data technologies.**
 
 - 👨‍💻 You can access all of my projects by visiting: [
-https://yosrabouassida.infinityfreeapp.com/](
-https://yosrabouassida.infinityfreeapp.com/)
+https://yosrabouassida.infinityfreeapp.com/YosraBouassida/](
+https://yosrabouassida.infinityfreeapp.com/YosraBouassida/)
 
 - 📫You can get in touch with me via  **yosra.bouassida96@gmail.com**
 
@@ -17,8 +17,25 @@ https://yosrabouassida.infinityfreeapp.com/)
 <a href="https://www.linkedin.com/in/yosra-bouassida-b76b19157/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yosra-bouassida-b76b19157/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages and Software Tools:</h3>
- <p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>    </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  </div>
+<h3 align="left">Skills:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/looker/looker-original.svg" alt="Looker" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" alt="Excel" width="40" height="40" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://placeholder-url-for-eda-icon.com/eda-icon.svg" alt="Exploratory Data Analysis" width="40" height="40" />
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YosraBouassid&show_icons=true&locale=en&layout=compact" alt="YosraBouassid" /></p>
