@@ -18,7 +18,7 @@ https://yosrabouassida.infinityfreeapp.com/YosraBouassida/)
 </p>
 
 ### Skills:
-
+- **Natural language processing**
 - **SQL**
 - **Looker**
 - **Python**
